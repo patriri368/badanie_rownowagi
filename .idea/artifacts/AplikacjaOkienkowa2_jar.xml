@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AplikacjaOkienkowa2:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/AplikacjaOkienkowa2_jar</output-path>
-    <root id="archive" name="AplikacjaOkienkowa2.jar">
-      <element id="module-output" name="AplikacjaOkienkowa2" />
-      <element id="extracted-dir" path="E:/jSSC-2.7.0-Release/jssc.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
